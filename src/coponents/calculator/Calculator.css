@@ -1,0 +1,20 @@
+/* CALCULATRICE */
+.calculator {
+  width: 25%;
+  margin: auto;
+  padding: 1rem;
+  padding-bottom: 3rem;
+  background-color: rgb(184, 147, 171);
+  border: 2px solid rgb(126, 139, 148);
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.containerEqualReset {
+  display: flex;
+  width: 100%;
+  margin: 1rem;
+}
+.calculator button {
+  border-radius: 5px;
+}

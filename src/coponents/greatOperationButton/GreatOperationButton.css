@@ -1,0 +1,16 @@
+/* Touche Opération */
+.greatOperationButton {
+  width: 30%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.greatOperationButton button {
+  width: 4rem;
+  height: 4rem;
+  margin: 0.5rem auto;
+  font-size: large;
+  background-color: rgb(228, 157, 201);
+  border: rgb(189, 166, 180);
+
+}

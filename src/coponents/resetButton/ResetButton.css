@@ -1,0 +1,11 @@
+.resetButton {
+    width: 50%;
+    margin: auto;
+  }
+.resetButton button {
+    width: 10rem;
+    height: 4rem;
+    font-size: large;   
+    background-color: rgb(228, 157, 201);
+    border: rgb(189, 166, 180);
+}

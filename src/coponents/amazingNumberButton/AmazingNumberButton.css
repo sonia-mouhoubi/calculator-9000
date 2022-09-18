@@ -1,0 +1,12 @@
+.amazingNumberButton {
+    width: 70%;
+    /* margin: auto; */
+  }
+.amazingNumberButton button {
+    width: 4rem;
+    height: 4rem;
+    margin: 0.5rem;
+    background-color: rgb(228, 157, 201);
+    border: rgb(189, 166, 180);
+
+}
